@@ -1,3 +1,4 @@
+/* this styles the whole page */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -50,7 +51,6 @@ header nav ul li {
 /* end header style */
 
 /* start hero style */
-
 .hero {
     height: 800px;
     width: 100%;
@@ -62,7 +62,7 @@ header nav ul li {
 
 /* end hero style */
 
-
+/* used to position images */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -73,11 +73,12 @@ header nav ul li {
     margin-left: 25px;
 }
 
+/* font for all p elements */
 p {
     font-size: 16px;
 }
 
-/* this style the content section */
+/* start main content style */
 
 main {
     width: 75%;
@@ -103,9 +104,9 @@ main h2 {
     font-size: 36px;
 }
 
-/* content style ends */
+/* end main content style */
 
-/* this styles the benefits section */
+/* start benefits sidebar style */
 
 aside {
     margin-right: 20px;
@@ -118,34 +119,34 @@ aside {
     background-color: #2589bd;
 }
 
-article {
+aside article {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-article summary{
+aside summary{
     margin-bottom: 10px;
     text-align: center;
 }
 
-article summary figure {
+aside img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-/* end benefits style */
+/* end benefits sidebar  style */
 
-/* start foot style */
+/* start footer style */
 
-.footer {
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 
-.footer h2 {
+footer h2 {
     font-size: 20px;
 }
 
