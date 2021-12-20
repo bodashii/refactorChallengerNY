@@ -1,6 +1,8 @@
 # refactorChallengerNY
 
-## Updating html elements with semantic elements to optimize accessibility and searchability.
+## [refactorChallengerNY Website:](https://maddnty.github.io/refactorChallengerNY/)
+
+### Updating html elements with semantic elements to optimize accessibility and searchability.
 
 
 >Added title to head.
@@ -24,11 +26,11 @@
 >Added notes to html.index .
 
 
-## Optimizing CSS
+### Optimizing CSS
 
-Consolidated and renamed css selectors.
+>Consolidated and renamed css selectors.
 
-Added comments to style.css .
+>Added comments to style.css . 
 
 ### After Changes 
 
