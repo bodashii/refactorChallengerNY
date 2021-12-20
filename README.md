@@ -1,6 +1,6 @@
 # refactorChallengerNY
 
-## [refactorChallengerNY Website:](https://maddnty.github.io/refactorChallengerNY/)
+## [refactorChallengerNY Website](https://maddnty.github.io/refactorChallengerNY/)
 
 ### Updating html elements with semantic elements to optimize accessibility and searchability.
 
